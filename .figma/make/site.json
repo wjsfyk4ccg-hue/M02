@@ -1,0 +1,10 @@
+{
+  "description": "Generates custom color palettes and design templates to help creatives streamline their branding and visual projects efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
